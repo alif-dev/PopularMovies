@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Popular Movies</string>
+
+    <!--Menu item: Settings-->
+    <string name="settings_title">Settings</string>
+
+    <!--Title of TextView order by selection-->
+    <string name="setting_title_order_by">Order By</string>
+
+    <!--RadioButton selection for order by popularity-->
+    <string name="rbtn_by_popularity_text">Most Popular</string>
+
+    <!--RadioButton selection for order by rate-->
+    <string name="rbtn_by_rate_text">Highest-rated</string>
+
+    <!--Menu item: Save-->
+    <string name="save_title">SAVE</string>
+
+    <!--User rating-->
+    <string name="user_rating_text">User rating:\ </string>
+
+    <!--Release date-->
+    <string name="release_date_text">Release date:\ </string>
+
+</resources>
